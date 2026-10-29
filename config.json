@@ -1,0 +1,14 @@
+{
+  "target_site": "demo-techblog.com",
+  "brand_terms": ["demo techblog", "demotechblog", "demo-techblog"],
+  "niche_keywords": ["python", "programming", "coding", "developer", "javascript",
+                     "web development", "tutorial", "software", "ai", "tech"],
+  "money_keywords": ["buy", "cheap", "discount", "coupon", "price", "for sale", "order now", "hire"],
+  "thresholds": {
+    "high_authority": 50,
+    "low_authority": 15,
+    "risk_score_flag": 3,
+    "max_outbound_links": 100,
+    "sitewide_links": 50
+  }
+}
